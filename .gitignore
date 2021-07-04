@@ -1,0 +1,13 @@
+node_modules/
+.idea
+.openzeppelin
+.openzeppelin*
+secret.json
+secret.*.json
+backup/
+.openzeppelin/.session
+.DS_Store
+
+#Hardhat files
+cache
+artifacts
